@@ -63,7 +63,7 @@ export type movie = {
         title: "Interstellar",
         year: 2014,
         rating : 10,
-        image: "/images/interstellarposter.jpg",
+        image: "/images/Interstellarposter.jpg",
         id: "8",
     }
     ,
